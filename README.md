@@ -1,4 +1,5 @@
-# projeto-social
+# projeto-rede-social
 Projeto de redes sociais
+Criado no curso de HTML-CSS
 
-https://rafaelaleodoro.github.io/projeto-social/
+Meu Projeto ➜ https://rafaelaleodoro.github.io/projeto-social/
